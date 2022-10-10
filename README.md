@@ -6,4 +6,4 @@
 1. Run the following to create docker image <i>mvn clean install</i> or <i>mvn dockerfile:build</i>
 
 Note: Currently I am unable to run the docker image and getting <code>Exception in thread "main" java.awt.AWTException: headless environment</code><br>
-Need to fix this, refer https://www.anycodings.com/1questions/5425974/testing-swing-elements-in-a-headless-environment-gitlab-ci
+Need to fix this, refer https://www.anycodings.com/1questions/5425974/testing-swing-elements-in-a-headless-environment-gitlab-ci and https://stackoverflow.com/questions/32151043/xvfb-docker-cannot-open-display
